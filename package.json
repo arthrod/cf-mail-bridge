@@ -23,7 +23,7 @@
 	"dependencies": {
 		"jose": "^5.2.0",
 		"postal-mime": "^2.3.2",
-		"resend": "^4.5.2"
+		"resend": "^4.8.0"
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-pool-workers": "^0.5.15",
